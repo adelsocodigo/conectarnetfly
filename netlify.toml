@@ -1,2 +1,3 @@
 [build]
-  base = "build: base: ."
+  base = "."
+
